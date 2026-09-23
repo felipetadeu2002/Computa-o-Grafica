@@ -6,7 +6,7 @@ O sistema possui uma área de desenho gráfica e permite a criação e manipula�
 
 ---
 
-## Integrantes
+## Integrante
 
 **Felipe Tadeu Silva**
 
@@ -48,7 +48,7 @@ O trabalho segue os requisitos definidos no roteiro da disciplina, incluindo a a
 
 ## Link GIT
 
-
+https://github.com/felipetadeu2002/Computa-o-Grafica
 
 ---
 
