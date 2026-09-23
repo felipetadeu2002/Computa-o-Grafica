@@ -52,6 +52,12 @@ https://github.com/felipetadeu2002/Computa-o-Grafica
 
 ---
 
+## Link Vídeo
+
+https://youtu.be/bqBz0rFoMRs
+
+---
+
 ## Estrutura do Projeto
 
 ```text
